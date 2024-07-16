@@ -28,7 +28,7 @@ PostgreSQL
 Once you have the required tools installed, follow these steps to install the Bank Management System:
 
 Clone this repository:
-   git clone https://github.com/Mohammed-eid35/bank-management-system-springboot.git
+   git clone https://github.com/Omkar8777/bank-management-system.git
 Edit the database configurations in application.properties file.
 Navigate to the project directory:
 cd bank-management-system-springboot
